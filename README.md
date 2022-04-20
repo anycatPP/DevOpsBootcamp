@@ -4,6 +4,8 @@
 1 - Bootcamp Overview
 
 2 - Introduction to DevOps
+
+
 0 - Module Intro
 1 - Introduction to Version Control and Git
 2 - Basic Concepts of Git
@@ -213,7 +215,6 @@ Pipeline - Part 1
 20 - Project: Automation with Python (Spreadsheet)
 21 - OOP: Classes and Objects
 22 - Project: API Request to GitLab
-
 
 
 
